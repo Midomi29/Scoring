@@ -69,7 +69,8 @@ Send2Trash
 six
 streamlit
 terminado
-test path
+test
+path
 toml
 toolz
 tornado
