@@ -47,7 +47,6 @@ numpy
 pandas
 pandocfilters
 parso
-pathtools
 pickleshare
 Pillow
 prometheus-client
